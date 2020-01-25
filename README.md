@@ -1,4 +1,4 @@
-![App Brewery Banner](https://github.com/FlutterCurso/Imagens/blob/master/FlutterCursoBanner.png)
+![Flutter Curso Banner](https://github.com/FlutterCurso/Imagens/blob/master/FlutterCursoBanner.png)
 # Flutter-Curso
 Veja o curso completo em... (ainda criando)
 
