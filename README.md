@@ -1,6 +1,6 @@
 ![Flutter Curso Banner](https://github.com/FlutterCurso/Imagens/blob/master/FlutterCursoBanner.png)
 # Flutter-Curso
-Veja o curso completo em... (ainda criando)
+Veja o curso completo no [YouTube](https://www.youtube.com/channel/UCjkYeTqe32as9fliwxgsQgA)
 
 ## Módulo 1 - Eu Sou Rico
 
